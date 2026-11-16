@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Automação de Testes E2E - SauceDemo (Cypress)
 
 ![Cypress E2E Tests](https://github.com/emudok/cypress-e2e-saucedemo/actions/workflows/cypress.yml/badge.svg)
@@ -33,6 +32,7 @@ cypress-e2e-saucedemo/
 ├── cypress.config.js               # Configuração de baseUrl e viewport
 ├── package.json
 └── README.md
+```
 
 ## Cenários Executados
 
